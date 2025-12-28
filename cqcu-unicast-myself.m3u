@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://baoer.org.cn/e.xml.gz"
+#EXTM3U x-tvg-url="https://baoer.org.cn/e.xml.gz" catchup="append" catchup-source="?playseek={start|yyyyMMddHHmmss|UTC}-{end|yyyyMMddHHmmss|UTC}"
 #EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" group-title="央视频道",CCTV-1高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" group-title="央视频道",CCTV-2高清
