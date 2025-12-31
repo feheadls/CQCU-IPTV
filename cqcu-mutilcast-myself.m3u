@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.fehead.cn:8888/t.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.8.210:6678/t.xml.gz"
 #EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" group-title="央视频道",CCTV-1高清
 rtp://225.0.4.74:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" group-title="央视频道",CCTV-2高清
