@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.8.210:6678/t.xml.gz"
-#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" catchup="default" catchup-source="rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=&playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title group-title="央视频道",CCTV-1高清
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" catchup="default" catchup="default" catchup-source="rtsp://123.147.113.134:1554/iptv/Tvod/iptv/001/040000010400000200000001/01000000004000000000000000000231.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV-1高清
 rtp://225.0.4.74:7980?fcc=123.147.117.148:15970
 #EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" group-title="央视频道",CCTV-2高清
 rtp://225.0.4.132:7980?fcc=123.147.117.148:15970
